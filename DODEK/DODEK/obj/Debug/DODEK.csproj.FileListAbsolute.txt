@@ -1,0 +1,2 @@
+C:\Users\Иван\Documents\tryhard\DODEK\DODEK\bin\Debug\DODEK.exe.config
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\bin\Debug\DODEK.exe.config
