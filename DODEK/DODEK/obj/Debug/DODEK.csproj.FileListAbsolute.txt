@@ -1,2 +1,9 @@
 C:\Users\Иван\Documents\tryhard\DODEK\DODEK\bin\Debug\DODEK.exe.config
 C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\bin\Debug\DODEK.exe.config
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\bin\Debug\DODEK.exe
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\bin\Debug\DODEK.pdb
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.Properties.Resources.resources
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.csproj.GenerateResource.Cache
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.exe
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.pdb
