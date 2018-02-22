@@ -7,3 +7,4 @@ C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.Properti
 C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.csproj.GenerateResource.Cache
 C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.exe
 C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.pdb
+C:\Users\Иван\Documents\tryhard\ANOTHER\DODEK\DODEK\obj\Debug\DODEK.Form1.resources
